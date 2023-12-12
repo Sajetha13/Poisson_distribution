@@ -71,7 +71,7 @@ cal_chi2_sq=np.sum(xi)
 print("Calculated value of Chi square is %4.2f"%cal_chi2_sq)
 table_chi2=scipy.stats.chi2.ppf(1-.01,df=M)
 print("Table value of chi square at 1 level is %4.2f"%table_chi2)
-``
+```
 
 # Output : 
 
