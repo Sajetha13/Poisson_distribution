@@ -23,6 +23,15 @@ The Poisson distribution is the discrete probability distribution of the number 
 # Procedure :
 
 ![image](https://user-images.githubusercontent.com/104613195/166251988-d0c53205-6080-4f7b-ae4c-398178586637.png)
+
+
+# Experiment :
+
+![image](https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png)
+
+# Program :
+
+```
 DEVELOPED BY: S.SAJETHA
 REF NO      :212223100049
 
@@ -62,14 +71,7 @@ cal_chi2_sq=np.sum(xi)
 print("Calculated value of Chi square is %4.2f"%cal_chi2_sq)
 table_chi2=scipy.stats.chi2.ppf(1-.01,df=M)
 print("Table value of chi square at 1 level is %4.2f"%table_chi2)
-
-# Experiment :
-
-![image](https://user-images.githubusercontent.com/103921593/230282876-f4a5afbf-cac1-4648-a1b0-c78840638a8e.png)
-
-# Program :
-
- 
+``
 
 # Output : 
 
