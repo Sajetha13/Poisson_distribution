@@ -31,10 +31,10 @@ The Poisson distribution is the discrete probability distribution of the number 
 
 # Program :
 
-
+```
 DEVELOPED BY: S.SAJETHA
 REF NO      :212223100049
-```
+
 ##  f - frequency of x
 ## sf - sum of frequency
 ## pr - probability function for poisson distribution
@@ -75,7 +75,7 @@ print("Table value of chi square at 1 level is %4.2f"%table_chi2)
 
 # Output : 
 
-![save2](https://github.com/Sajetha13/Poisson_distribution/assets/138849316/cff435e3-701f-4f20-b932-8a6dd2966860)
+![image](https://github.com/Sajetha13/Poisson_distribution/assets/138849316/55044585-6d00-4248-bd76-35d365ec9602)
 
 
 
